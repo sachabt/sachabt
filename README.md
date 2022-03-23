@@ -2,7 +2,7 @@
 
 Etudiant de 21 ans en informatique au cégep de Matane et à l'iut de Laval je m'intéresse particulièrement au développement logiciel et de jeu.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachabt&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)>
+[![sachabt Stats](https://github-readme-stats.vercel.app/api?username=sachabt&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img align="left" alt="linkedin" width="22px" src="./linkedin.svg" />][linkedin]
 
