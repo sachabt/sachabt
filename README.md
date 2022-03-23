@@ -4,7 +4,7 @@ Etudiant de 21 ans en informatique au cégep de Matane et à l'iut de Laval je m
 
 
 
-[<img align="left" alt="linkedin" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="linkedin" width="42px" src="./linkedin.svg" />][linkedin]
 
 <!--referece what linkedin is -->
 [linkedin]: https://www.linkedin.com/in/sacha-bellier-toulouzou/
