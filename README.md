@@ -2,6 +2,9 @@
 
 Etudiant de 21 ans en informatique au cégep de Matane et à l'iut de Laval je m'intéresse particulièrement au développement logiciel et de jeu.
 
+[<img align="left" alt"linkedin" width="22px" src="./linkedin.png"/>][linkedin]
+
+<!--referece what linkedin is -->
 [linkedin]: https://www.linkedin.com/in/sacha-bellier-toulouzou/
 <!--
 **sachabt/sachabt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
