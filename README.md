@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Je m'appelle Sacha, j'ai 21 ans, je suis étudiant en développement informatique au Cégep de Matane (Québec) et à l'IUT de Laval (France) je m'intéresse particulièrement au développement de logiciels et de jeux.
+Je m'appelle Sacha, j'ai 21 ans, je suis étudiant en licence 3 à l'université d'Angers, ancien étudiant à l'IUT de Laval je m'intéresse particulièrement au développement de logiciels et de jeux.
 
 
 [<img align="left" alt="linkedin" width="42px" src="./linkedin.svg" />][linkedin]
